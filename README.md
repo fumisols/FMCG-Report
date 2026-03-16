@@ -1,4 +1,7 @@
 # FMCG-Report
+I designed an interactive Sales Performance Dashboard built to analyze sales data for a beverage distribution business across multiple states, customers, products, and sales representatives between 2010 and 2011.
+
+The dashboard provides insights into revenue performance, product sales, regional distribution, and salesperson contribution, enabling stakeholders to quickly understand business performance and identify opportunities for growth.
 
 # Sales Performance Dashboard (2010–2011)
 
